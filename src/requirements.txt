@@ -1,0 +1,10 @@
+# ClusterCast: Ransomware Risk Forecasting System
+# Python 3.8+ required
+
+# Core dependencies (required)
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Optional dependencies for visualization and notebooks
+matplotlib>=3.5.0  # For reliability diagrams and histograms (gracefully handled if missing)
+ipython>=7.0.0     # For Jupyter notebook display utilities (optional)
