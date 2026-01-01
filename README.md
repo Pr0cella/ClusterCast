@@ -1,5 +1,8 @@
 # ClusterCast: Ransomware Risk Forecasting System
 
+## Note: This project is still work in progress.
+
+
 ## Table of Contents
 - [Executive Summary](#executive-summary)
 - [Mathematical Foundation and Model Selection](#mathematical-foundation-and-model-selection)
@@ -779,3 +782,4 @@ Markdown and JSON outputs (split mode default)
 
 Legacy combined report
 - You can temporarily revert to the legacy single combined report by setting `SPLIT_OUTPUTS=false`. A read fallback to `output/calibration/` exists during the transition and may be removed later.
+
