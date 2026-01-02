@@ -1,4 +1,4 @@
-# ClusterCast: Ransomware Risk Forecasting System
+# ClusterCast: Incident Risk Forecasting System
 
 ## Note: This project is still work in progress.
 
